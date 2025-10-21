@@ -1,0 +1,5 @@
+{
+  "name": "ChitChat Random",
+  "description": "A modern, responsive frontend for a random chat application. It features user authentication, random user matching, real-time chat with typing indicators, and a sleek dark/light theme toggle. Experience seamless connections and conversations in a beautifully designed interface.",
+  "requestFramePermissions": []
+}
